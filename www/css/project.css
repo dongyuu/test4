@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:#6CF;
+	font-family:"MS Serif", "New York", serif;
+	font-size:18px;
+	width:window-width;
+}
+body table{
+	text-align:center;
+	width:60%;
+}
